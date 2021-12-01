@@ -3,3 +3,6 @@ git status
 git add *
 git commit
 git add filename
+______________________
+people
+branches
